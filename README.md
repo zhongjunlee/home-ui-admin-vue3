@@ -1,6 +1,6 @@
-## 🐯 平台简介
-**Home** 是一个基于微服务架构搭建的通用管理平台，你可以基于此项目进行扩展搭建自己的业务系统，
-代码文档全部开源，个人与企业 100% 免费使用。
+## 平台简介
+**Home** 是一个基于Spring Cloud、Spring Boot、Spring Security、OAuth2 搭建的后台管理系统，旨在通过此项目快速学习项目开发流程和常用技术。
+代码文档 100% 开源免费使用。
 
 * 采用 [vue-element-plus-admin](https://gitee.com/kailong110120130/vue-element-plus-admin) 实现
 * 改换 saas，自动引入等功能
